@@ -1,0 +1,30 @@
+.wrapper {
+  display: flex;
+  gap: 20px;
+  padding-top: 10px;
+  padding-bottom: 15px;
+  border-bottom: 2px solid #aaaaaa;
+}
+
+.infomovies {
+  border-bottom: 2px solid #aaaaaa;
+}
+
+.infomovies li {
+  margin-bottom: 10px;
+  list-style: none;
+}
+
+.buttonback {
+  margin-bottom: 10px;
+}
+
+.buttonback:hover {
+  background-color: #fff;
+}
+
+.title {
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
